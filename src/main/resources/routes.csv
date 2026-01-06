@@ -1,0 +1,50 @@
+1,EUS,MAN,Avanti West Coast,212
+2,KGX,LDS,London North Eastern Railway,196
+3,PAD,BTN,Great Western Railway,118
+4,WAT,PMH,South Western Railway,74
+5,VIC,BTN,Southern,53
+6,LST,NRW,Greater Anglia,69
+7,STP,NOT,East Midlands Railway,91
+8,BHM,EDB,Cross Country,222
+9,BHM,GLC,Cross Country,89
+10,BHM,BTN,Cross Country,84
+11,MAN,SHF,Northern Trains,39
+12,MAN,LIV,Northern Trains,36
+13,MAN,LDS,Northern Trains,36
+14,LDS,NCL,TransPennine Express,120
+15,LDS,YRK,Northern Trains,25
+16,LDS,SHF,Northern Trains,41
+17,YRK,NCL,TransPennine Express,99
+18,YRK,EDB,London North Eastern Railway,132
+19,NCL,GLC,Avanti West Coast,97
+20,NCL,INV,Scot Rail,155
+21,EDB,ABD,Scot Rail,162
+22,EDB,GLQ,Scot Rail,47
+23,GLC,ABD,Scot Rail,114
+24,GLC,DUN,Scot Rail,62
+25,CDF,BTN,Great Western Railway,86
+26,CDF,MAN,Cross Country,166
+27,EXD,PNZ,Great Western Railway,310
+28,BTN,PNZ,Great Western Railway,308
+29,BTN,SOU,Cross Country,72
+30,SOU,WAT,South Western Railway,73
+31,SOU,BTN,Southern,51
+32,BTN,AFK,Southern,38
+33,AFK,STP,SE Trains,57
+34,NRW,CBG,Greater Anglia,48
+35,CBG,LST,Greater Anglia,60
+36,CBG,PBO,Great Northern,39
+37,PBO,LDS,London North Eastern Railway,63
+38,PBO,YRK,London North Eastern Railway,51
+39,SHF,NOT,East Midlands Railway,40
+40,SHF,DBY,East Midlands Railway,24
+41,DBY,LEI,East Midlands Railway,27
+42,LEI,BHM,Cross Country,43
+43,LEI,STP,East Midlands Railway,68
+44,OXF,BHM,Cross Country,84
+45,RDG,BSK,South Western Railway,20
+46,BSK,SOU,South Western Railway,31
+47,INV,DND,Scot Rail,84
+48,PAD,BTN,Great Western Railway,118
+49,RDG,PAD,South Western Railway,36
+50,PAD,BTH,TransPennine Express,97
